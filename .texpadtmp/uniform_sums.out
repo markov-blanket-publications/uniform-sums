@@ -1,0 +1,15 @@
+\BOOKMARK [1][-]{section.1}{Analysis of a special case}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Proof that uN is decreasing}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Analysis of the limit limN \040uN}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{Proof that limN \040uN=0}{section.1}% 4
+\BOOKMARK [2][-]{subsection.1.4}{Discussion}{section.1}% 5
+\BOOKMARK [1][-]{section.2}{A more general case}{}% 6
+\BOOKMARK [2][-]{subsection.2.1}{A random walk on Z}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.2}{Small and Large deviations}{section.2}% 8
+\BOOKMARK [2][-]{subsection.2.3}{A remark on symmetry}{section.2}% 9
+\BOOKMARK [2][-]{subsection.2.4}{The case of n=1 and n=2}{section.2}% 10
+\BOOKMARK [2][-]{subsection.2.5}{The case of n=3}{section.2}% 11
+\BOOKMARK [2][-]{subsection.2.6}{Average drift or why P\(Sn=k\) > P\(Sn = k+1\)}{section.2}% 12
+\BOOKMARK [2][-]{subsection.2.7}{Proof that un is decreasing}{section.2}% 13
+\BOOKMARK [2][-]{subsection.2.8}{Proof that limn \040un = limn \040n = 0}{section.2}% 14
+\BOOKMARK [1][-]{section.3}{Discussion}{}% 15
